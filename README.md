@@ -1,5 +1,7 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/filipedeschamps/video-maker) 
-
+   
+   
+ESTE É UM CLONE DE UM REPOSITORIO QUE PEGUEI PARA ESTUDOS
 # video-maker
 Projeto open source para fazer vídeos automatizados
 
